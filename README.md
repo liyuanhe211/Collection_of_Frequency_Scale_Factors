@@ -1,8 +1,8 @@
 # Collection of Frequency Scale Factors
 This is a collection of frequency scale factors for quantum chemistry calculation. The sources for the factors are noted as follows:
-`Truhlar`: http://comp.chem.umn.edu/freqscale/version3b2.htm
-`CCCBDB`: http://cccbdb.nist.gov/vibscalejust.asp
-The others are from literatures and are listed with DOI of the corresponding literature.
+ * `Truhlar`: http://comp.chem.umn.edu/freqscale/version3b2.htm
+ * `CCCBDB`: http://cccbdb.nist.gov/vibscalejust.asp
+ * The others are from literatures and are listed with DOI of the corresponding literature.
 
 |Method|Basis set|ZPE|H(T)-H(0)|S(T)|Fundamentals (F)|Fund <1000|Fund >1000|Source|
 |---|---|---|---|---|---|---|---|---|
