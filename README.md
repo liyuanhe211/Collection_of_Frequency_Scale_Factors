@@ -2,7 +2,7 @@
 This is a collection of frequency scale factors for quantum chemistry calculation. The sources for the factors are noted as follows:
  * `Truhlar`: http://comp.chem.umn.edu/freqscale/version3b2.htm
  * `CCCBDB`: http://cccbdb.nist.gov/vibscalejust.asp
- * The others are from literatures and are listed with DOI of the corresponding literature.
+ * The others are from literatures and are listed with DOI of the corresponding literature.<meta name="google-site-verification" content="WxTkS-h_3nE6T9qnA5bmYIu0WaG1_qvzcdw1ixWF1fM" />
 
 |Method|Basis set|ZPE|H(T)-H(0)|S(T)|Fundamentals (F)|Fund <1000|Fund >1000|Source|
 |---|---|---|---|---|---|---|---|---|
@@ -1411,4 +1411,4 @@ This is a collection of frequency scale factors for quantum chemistry calculatio
 |X1B95|MG3S|0.9710 |||0.9460 |||Truhlar|
 |XB1K|6-31+G(d,p)|0.9520 |||0.9270 |||Truhlar|
 |XB1K|MG3S|0.9550 |||0.9300 |||Truhlar|
-<meta name="google-site-verification" content="WxTkS-h_3nE6T9qnA5bmYIu0WaG1_qvzcdw1ixWF1fM" />
+
